@@ -1,5 +1,8 @@
 # Vision
-Vision is a Driver Monitoring System. It includes various modules which helps to monitor the driver by analysing various parameters and data. This system can be very helpful for driver as well as for automobile industries, to make the car more secure and durable. By distributing the collected data among various automobile companies, can prevent vehicle theft beforehand.
+Vision is a Driver Monitoring System. It includes various modules which helps to monitor the driver by analysing various parameters and data. This system can be very helpful for driver as well as for automobile industries, to make the car more secure and durable. By distributing the collected data among various automobile companies, can prevent vehicle theft beforehand. The overall system is divided into three modules:
+- Drowsiness Detection 
+- Face Recognition
+- Head Pose Estimation
 
 ## Getting Started
 - clone or download the zip file
@@ -19,11 +22,6 @@ Following libraries must be installed on the target machine
 - Python
 - Atom (Open Source Editor)
 - Ubuntu 18.04.2 LTS (Platform)
- 
-## Modules
-- Drowsiness Detection
-- Head Pose Estimation
-- Face Recognition
 
 ## Authors
 * **Gursewak Singh** - *Initial work* - [gursewak96](https://github.com/gursewak96)
