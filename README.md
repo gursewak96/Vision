@@ -13,7 +13,7 @@ Following libraries must be installed on the target machine
 - Ubuntu 18.04.2 LTS
 ## Implementation Information
 - PEP 8 coding style
-- Python Vesion 2.7
+- Python Vesion 2.7 (Platform)
 ## Modules
 - Drowsiness Detection
 - Head Pose Estimation
