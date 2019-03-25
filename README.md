@@ -1,2 +1,2 @@
-# ![Vision](lib/media/splash.png)
+# Vision
 Driver Monitoring System
