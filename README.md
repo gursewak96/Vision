@@ -10,8 +10,8 @@ Following libraries must be installed on the target machine
 - Python
 - Atom (Open Source Editor)
 ## Implementation Information
--PEP 8 coding style
--Python Vesion 2.7
+- PEP 8 coding style
+- Python Vesion 2.7
 ## Modules
 - Drowsiness Detection
 - Head Pose Estimation
