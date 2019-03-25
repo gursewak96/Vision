@@ -5,7 +5,13 @@ Vision is a Driver Monitoring System. It includes various modules which helps to
 - dlib
 
 #Installation
-#Built With
-#Modules
+## Built With
+- Python
+- Atom (Open Source Editor)
+
+## Modules
+- Drowsiness Detection
+- Head Pose Estimation
+- Face Recognition
 
 
