@@ -3,11 +3,8 @@ Vision is a Driver Monitoring System. It includes various modules which helps to
 #
 ## Requirements
 Following libraries must be installed on the target machine
-- OpenCV
-- dlib
->To install dlib, follow this [link](https://pypi.org/project/dlib/).
->To install OpenCV, follow this [link](https://pypi.org/project/opencv-python/).
-
+- OpenCV, follow this [link](https://pypi.org/project/dlib/) to install.
+- dlib, follow this [link](https://pypi.org/project/dlib/) to install.
 ## Installation
 ## Built With
 - Python
