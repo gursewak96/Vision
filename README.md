@@ -18,5 +18,5 @@ Following libraries must be installed on the target machine
 ## Authors
 - Gursewak Singh
 ## License
-
+This project is licensed under the GPL License -see the [LICENSE.md](LICENSE.md) files for details
 
