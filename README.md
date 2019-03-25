@@ -16,7 +16,7 @@ Following libraries must be installed on the target machine
 - Head Pose Estimation
 - Face Recognition
 ## Authors
-- Gursewak Singh
+* **Gursewak Singh** - *Initial work* - [gursewak96](https://github.com/gursewak96)
 ## License
 This project is licensed under the GPL License -see the [LICENSE.md](LICENSE.md) files for details
 
