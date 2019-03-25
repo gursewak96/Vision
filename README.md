@@ -10,6 +10,7 @@ Following libraries must be installed on the target machine
 ## Built With
 - Python
 - Atom (Open Source Editor)
+- Ubuntu 18.04.2 LTS
 ## Implementation Information
 - PEP 8 coding style
 - Python Vesion 2.7
