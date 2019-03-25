@@ -18,5 +18,5 @@ Following libraries must be installed on the target machine
 ## Authors
 * **Gursewak Singh** - *Initial work* - [gursewak96](https://github.com/gursewak96)
 ## License
-This project is licensed under the GPL License -see the [LICENSE.md](Vision/LICENSE.md) files for details
+This project is licensed under the GPL License -see the [LICENSE.md](https://github.com/gursewak96/Vision/blob/master/LICENSE.md) files for details.
 
