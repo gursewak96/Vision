@@ -5,13 +5,14 @@ Vision is a Driver Monitoring System. It includes various modules which helps to
 - clone or download the zip folder of the project
 - Extract the zip file to your favorite location
 - open the command prompt (Windows) or Terminal (Ubuntu/Linux)
-- change directory to "lib" folder in the project
+- change directory to "lib" folder of the extracted project
 -
 
 ## Requirements
 Following libraries must be installed on the target machine
 - OpenCV, follow this [link](https://pypi.org/project/dlib/) to install.
 - dlib, follow this [link](https://pypi.org/project/dlib/) to install.
+
 ## Installation
 
 ## Built With
